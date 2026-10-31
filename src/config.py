@@ -1,0 +1,10 @@
+# src/config.py
+WINDOW_TITLE = "Chronopulse: Overdrive"
+WINDOW_WIDTH = 1280
+WINDOW_HEIGHT = 720
+TARGET_FPS = 60
+
+# Era IDs
+EPOCH_PRESENT = 0
+EPOCH_PAST = 1
+EPOCH_FUTURE = 2

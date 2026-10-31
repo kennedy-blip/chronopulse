@@ -1,0 +1,4 @@
+ursina
+pygame-ce
+pyinstaller
+numpy
