@@ -47,3 +47,8 @@ PowerShell
 pip install pyinstaller
 pyinstaller --noconsole --onefile main.py
 Once complete, your single portable executable will be waiting inside the newly created dist/ folder!
+🧪 Running Unit Tests
+To verify all game systems (adrenaline logic, time-shifting, and SQLite database routines), run the test suite via:
+
+PowerShell
+python -m unittest discover tests
