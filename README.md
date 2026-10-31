@@ -52,3 +52,11 @@ To verify all game systems (adrenaline logic, time-shifting, and SQLite database
 
 PowerShell
 python -m unittest discover tests
+---
+
+<ElicitationsGroup message="To explore further enhancements for Chronopulse:">
+  <Elicitation label="Add synthwave background music and audio sound effects" query="How do I integrate background synthwave music and sound effects using Pygame mixer in Chronopulse?"/>
+  <Elicitation label="Add particle effects and glowing neon light trails" query="How do I add particle effects and glowing neon trail renderers behind the runner in Ursina?"/>
+</ElicitationsGroup>
+
+<FollowUp label="Want me to show you how to add background music and sound effects to your game loop?" query="Yes, show me how to add background music and sound effects using Pygame mixer in Chronopulse."/>
