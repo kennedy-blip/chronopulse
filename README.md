@@ -61,3 +61,4 @@ python -m unittest discover tests
 
 <FollowUp label="Want me to show you how to add background music and sound effects to your game loop?" query="Yes, show me how to add background music and sound effects using Pygame mixer in Chronopulse."/>
 all
+blank
