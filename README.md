@@ -40,3 +40,10 @@ pip install -r requirements.txt
 
 # 4. Launch the game
 python main.py
+📦 Building a Portable Standalone Executable
+To compile Chronopulse into a standalone Windows executable (.exe) that can run on any machine without installing Python:
+
+PowerShell
+pip install pyinstaller
+pyinstaller --noconsole --onefile main.py
+Once complete, your single portable executable will be waiting inside the newly created dist/ folder!
